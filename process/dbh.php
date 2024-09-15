@@ -1,9 +1,9 @@
 <?php
 
-$servername = "localhost:3306";
-$dBUsername = "go2belal_micro2";
-$dbPassword = "microtechna@";
-$dBName = "go2belal_micro";
+$servername = "srv995.hstgr.io";
+$dBUsername = "u611910731_testingAutomat";
+$dbPassword = "Automation123#@";
+$dBName = "u611910731_automation";
 
 $conn = mysqli_connect($servername, $dBUsername, $dbPassword, $dBName);
 
