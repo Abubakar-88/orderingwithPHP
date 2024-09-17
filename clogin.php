@@ -27,7 +27,7 @@ session_start();
 	<div class="loginbox">
     <img src="assets/avatar.png" class="avatar">
         <h1>Customer Login </h1>
-        <form action="cprocess.php" method="POST">
+        <form action="process/cprocess.php" method="POST">
             <p>User Id</p>
             <input type="text" name="mailuid" placeholder="Enter Email Address" required="required">
             <p>Password</p>
